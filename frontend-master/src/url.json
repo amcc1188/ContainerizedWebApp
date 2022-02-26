@@ -1,0 +1,9 @@
+{
+"backendServices":{
+"proxies":["http://proxy.40036410.qpc.hal.davecutting.uk/","http://proxy2.40036410.qpc.hal.davecutting.uk/","http://proxy3.40036410.qpc.hal.davecutting.uk/"],
+"wordcheck":["http://wordcheck.40036410.qpc.hal.davecutting.uk", "http://wordcheck2.40036410.qpc.hal.davecutting.uk"],
+"wordcount":["http://wordcount.40036410.qpc.hal.davecutting.uk/", "http://wordcount2.40036410.qpc.hal.davecutting.uk/"],
+"keywordcount":["http://keywordcount.40036410.qpc.hal.davecutting.uk/", "http://keywordcount2.40036410.qpc.hal.davecutting.uk/"],
+"frontend":["http://frontend.40036410.qpc.hal.davecutting.uk/"]
+}
+}
